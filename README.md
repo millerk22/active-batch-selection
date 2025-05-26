@@ -6,8 +6,9 @@ Repo for exploring and designing novel methods for batch selection in training m
 
 ```
 notebooks/  # finished jupyter notebooks for visualization and demos
-data/       # directory for storing data downloaded via PyTorch or other sources
-models/     # directory to store PyTorch models + associated object definitions in python scripts
+data/       # data downloaded via PyTorch or other sources
+models/     # PyTorch models + associated object definitions in python scripts
+methods/    # batch selection methods 
 train.py
 eval.py
 run.py
